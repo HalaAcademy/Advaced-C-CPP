@@ -1,3 +1,4 @@
+Tạm biệt nhé
 # Avanced C
 ## Bài 1: Compiler Process
 ### Compiler
