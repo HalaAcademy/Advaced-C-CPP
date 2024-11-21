@@ -15,7 +15,6 @@ int main()
     // In ra giá trị của các biến
     printf("var1: %d\n", var1);
     printf("var2: %d\n", var2);
-    20
 
     return 0;
 }
