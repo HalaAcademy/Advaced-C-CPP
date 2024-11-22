@@ -1,5 +1,4 @@
-Tạm biệt nhé
-hi
+
 # Avanced C
 ## Bài 1: Compiler Process
 ### Compiler
@@ -556,7 +555,7 @@ Sau khi khai báo tên của class, bên trong class ta sẽ khai báo các ph�
 - **public**: Các thành viên có thể được truy cập từ bất kỳ đâu, cả từ bên trong và bên ngoài lớp. (Nôm na là những object, các method bao gồm cả constructor và destructor được khai báo trong class sẽ truy cập được đến các thành viên).
 - **protected**: Các thành viên có thể được truy cập từ bên trong lớp và từ các lớp kế thừa, nhưng không thể được truy cập từ bên ngoài lớp.\
 Các thành viên trong class không chỉ có các biến hay các mảng như struct hay union ở C, class cho phép các thành viên có thể là hàm.
-```
+```c++
 class HinhChuNhat {
 public:
     double chieuDai;
