@@ -646,7 +646,7 @@ int main(){
 }
 ```
 - **Destructor** là một method dùng để dọn dẹp các tài nguyên mà một đối tượng đã chiếm dụng trước khi đối tượng bị giải phóng. Destuctor sẽ được tự động gọi khi object được giải phóng. Destructor sẽ có tên trùng với tên của class, thêm ký tự ~ ở phía trước tên và không có kiểu trả về. Destructor không nhận tham số truyền vào.
-```
+```c++
 class HinhChuNhat {
 public:
 	HinhChuNhat(double dai, double rong);
