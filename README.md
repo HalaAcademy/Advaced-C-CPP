@@ -576,7 +576,7 @@ std::cout << "Dien tich: " << hinh1.tinhDienTich() << '\n';
 ```
 Ở ví dụ trên, 'HinhChuNhat' là một kiểu dữ liệu và 'hinh1' là tên biến. Nhưng ở C++, 'HinhChuNhat' được gọi là "class" và 'hinh1' được gọi là "object".\
 Trong các quy tắc viết code trong C++, ta sẽ không viết định nghĩa của các method ở bên trong định nghĩa của class, ta phải định nghĩa các method riêng ở ngoài phần khai báo class.
-```
+```C++
 class HinhChuNhat {
 public:
     double chieuDai;
