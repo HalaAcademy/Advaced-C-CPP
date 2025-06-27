@@ -22,3 +22,5 @@ end:
 
     return 0;
 }
+
+test
