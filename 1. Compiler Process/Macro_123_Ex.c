@@ -11,6 +11,7 @@ int main()
     // Gán giá trị cho các biến
     var1 = 10;
     var2 = 20;
+    test
 
     // In ra giá trị của các biến
     printf("var1: %d\n", var1);
