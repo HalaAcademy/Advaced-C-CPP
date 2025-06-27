@@ -37,3 +37,5 @@ void result(Equation *equation)
         equation->x1 = equation->x2 = -1;
     }
 }
+
+hi
