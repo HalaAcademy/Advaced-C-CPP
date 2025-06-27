@@ -24,3 +24,5 @@ void init_motor(MotorController *motorName)
     motorName->stop = stopMotor;
     motorName->changeSpeed = changeSpeedMotor;
 }
+
+hi
