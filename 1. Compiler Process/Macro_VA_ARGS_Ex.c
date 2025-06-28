@@ -38,6 +38,5 @@ int main()
                               CASE_OPTION(4, feature4)
                   // Thêm case nếu cần
     )
-    test
     return 0;
 }
