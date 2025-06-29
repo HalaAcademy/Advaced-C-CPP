@@ -103,6 +103,7 @@ int main()
     sort(danhSachSV, size, compareByID);
 
     display(danhSachSV, size);
+    test
 
     return 0;
 }
