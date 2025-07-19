@@ -1,3 +1,0 @@
-Không thể đọc nội dung file!
-T: line 10 chưa đúng
-![img](https://raw.githubusercontent.com/HalaAcademy/Advaced-C-CPP/main/image/20250717-162138.png)
